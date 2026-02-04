@@ -11,6 +11,7 @@ The objective is to handle real-world medical data challenges such as missing va
 - **Target Variable:** Diabetes (0 = No Diabetes, 1 = Diabetes)
 - Medical features include glucose level, blood pressure, BMI, insulin, age, and others.
 - Some medical features contain missing values represented as `0`, which are not clinically valid.
+- **Dashboard:** Also added in repo.
 
 ---
 
@@ -90,7 +91,10 @@ In healthcare-related problems, recall is a critical metric because:
 👉 **Final Model Selected:** Random Forest Classifier
 
 ---
+### Dashboard Preview
+![Dashboard Preview](Dashboard.pdf)
 
+---
 ## 🛠 Tools & Technologies
 - Python
 - Pandas, NumPy
